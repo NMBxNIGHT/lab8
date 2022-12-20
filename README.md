@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ถิรณัฐ ก๋ากันมี
+# STUDENT ID: 650610762
